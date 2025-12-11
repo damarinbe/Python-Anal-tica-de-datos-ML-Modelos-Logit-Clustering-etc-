@@ -1,0 +1,2 @@
+# Python-Anal-tica-de-datos-ML-Modelos-Logit-Clustering-etc-
+Repositorio que compila los notebooks desarrollados para la asignatura Analítica de Negocios 2. Contiene implementaciones en Python de:  Modelos Logit y regresiones avanzadas.  Clustering y métodos de segmentación.  Algoritmos de Machine Learning supervisado y no supervisado.  Procedimientos de análisis descriptivo y preparación de datos. 
